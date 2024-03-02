@@ -1,5 +1,5 @@
 
-# Sample Malaylam Hate speech data .
+# DravLangGuard-Malaylam.
 
 
 |Class | Audio File | Text |
@@ -19,7 +19,7 @@
 
 
 
-# Sample Tamil Hate speech data .
+# DravLangGuard-Tamil.
 
 
 |Class | Audio File | Text |
@@ -38,7 +38,7 @@
 
 
 
-# Sample Telugu Hate speech data .
+# DravLangGuard-Teugu.
 
 |Class | Audio File | Text |
 |---------|------------|------|
