@@ -1,5 +1,5 @@
 
-# DravLangGuard-Malaylam.
+# DravLangGuard - Sample Malaylam.
 
 
 |Class | Audio File | Text |
@@ -19,7 +19,7 @@
 
 
 
-# DravLangGuard-Tamil.
+# DravLangGuard - Sample Tamil.
 
 
 |Class | Audio File | Text |
@@ -38,7 +38,7 @@
 
 
 
-# DravLangGuard-Teugu.
+# DravLangGuard - Sample Telugu.
 
 |Class | Audio File | Text |
 |---------|------------|------|
