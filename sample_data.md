@@ -17,6 +17,9 @@
 
 
 
+# Sample Telugu Hates speech data .
+
+
 
 
 
