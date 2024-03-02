@@ -19,6 +19,25 @@
 
 # Sample Telugu Hates speech data .
 
+|Class | Audio File | Text |
+|---------|------------|------|
+|Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/f5ed6b63-07ee-493f-9b12-19a922ff5cbb)  |నేన్ దేవుడేంటండీ అసలు గొడవలు ఇక్కడే స్టార్ట్ అవుతాయండి, ప్రపంచమంతా నిండిపోయిన ఆ దేవుడ్ని తీస్కొచ్చి ఓ గుడికట్టి గదిలో పెట్టాలనుకోడం ఏంటండి, ఆ దేవుడ్ని నాల్గు గోడలమధ్య పెట్టేంత గొప్పోళ్ళమా అండి మీరైనా నేనైనా, గుడైన చర్చయినా  మసీదైనా ఆ దేవునికి ఆఫీస్ లెక్క, అక్కడికెళ్లి మా కష్టాలు, మా ప్రోబ్ల్మ్స్ అక్కడ అప్లికేషన్ పెట్టాలంతే అది ఆయనకెళ్తుంది ప్రార్ధించాలంతే. |
+|Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/a539c6ff-fe7a-4f3b-ba3d-2b4a5e4214c5) |తల్లి గ లాలిస్తుంది చెల్లి గ తోడుంటుంది భార్యగా బాగోగులుచుస్తు దాసిలా పని చేస్తుంది కుటుంబ భరణి మోస్తూ సర్వం త్యాగం చేస్తుంది. స్త్రీ లేకపోతే జననం లేదు స్త్రీ లేకపోతే గమనం లేదు స్త్రీ లేకపోతే సృష్టిలో జీవం లేదు స్త్రీ లేకపోతే అసలు సృష్టే లేదు. కంటి పాపాల కాపాడే స్త్రీ మూర్తికి అంటరాజాతియా మహిళా దినోత్సవ శుభాకాంక్షలు. అంతటి గోపా మహిళకు మనసారా శుభాకాంక్షలు చెప్పుకునే సమయం ఇదే.|
+|Gender|[Play Audio]()| |
+|Gender|[Play Audio]()||
+|Nationality/Political|[Play Audio]()|| 
+|Nationality/Political|[Play Audio]()||
+|Personal Defemation|[Play Audio]()||
+|Personal Defemation|[Play Audio]()||
+|Religion|[Play Audio]()||
+|Religion|[Play Audio]()||
+
+
+
+
+
+
+https://github.com/Anonymous-person-01/dataset/assets/161918497/f5ed6b63-07ee-493f-9b12-19a922ff5cbb
 
 
 
@@ -27,6 +46,29 @@
 
 
 
+
+
+
+
+
+
+
+
+# Sample Tamil Hates speech data .
+
+
+|Class | Audio File | Text |
+|---------|------------|------|
+|Non-Hate|[Play Audio]()  | |
+|Non-Hate|[Play Audio]() | |
+|Gender|[Play Audio]()| |
+|Gender|[Play Audio]()||
+|Nationality/Political|[Play Audio]()|| 
+|Nationality/Political|[Play Audio]()||
+|Personal Defemation|[Play Audio]()||
+|Personal Defemation|[Play Audio]()||
+|Religion|[Play Audio]()||
+|Religion|[Play Audio]()||
 
 
 
